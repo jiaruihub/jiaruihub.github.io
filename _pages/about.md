@@ -22,8 +22,6 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD student in the [Department of Computer Science](https://www.colorado.edu/cs/) at the University of Colorado Boulder, advised by [Lijun Chen](https://spot.colorado.edu/~lich1539/). My research interests lie at the intersection of quantum computing, machine learning, and optimization.
+My name is Jiarui Hu (胡家睿) — feel free to call me **Hubery**. I am a PhD student in the [Department of Computer Science](https://www.colorado.edu/cs/) at the University of Colorado Boulder, advised by [Lijun Chen](https://spot.colorado.edu/~lich1539/). My research interests lie at the intersection of quantum computing, machine learning, and optimization.
 
 I received my B.A. from [Pomona College](https://www.pomona.edu/) with a double major in Mathematics and Computer Science.
-
-You can reach me at {{ "hubery.hu@colorado.edu" | encode_email }}.
