@@ -2,10 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: >
-  PhD Student, <a href="https://www.colorado.edu/cs/">Department of Computer Science</a>,
-  University of Colorado Boulder.
-  Advised by <a href="https://spot.colorado.edu/~lich1539/">Lijun Chen</a>.
+
+# subtitle: >
+#   PhD Student, <a href="https://www.colorado.edu/cs/">Department of Computer Science</a>,
+#   University of Colorado Boulder.
+#   Advised by <a href="https://spot.colorado.edu/~lich1539/">Lijun Chen</a>.
 
 profile:
   align: right
